@@ -202,4 +202,7 @@ footer p {
   section {
     padding: 30px;
   }
+  .embed {
+    aspect-ratio: 16 / 9;
+  }
 }
